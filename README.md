@@ -1,7 +1,8 @@
 # inkoop-assignment
 Created with CodeSandbox
 <br/>
-<strong>Assignment</strong>
+##Assignment
+
 Create a 2 player shooting game.
 Each player has a health of 100.
 Players can shoot at each other with a random power (0-5) which will reduce the opponent's health.
