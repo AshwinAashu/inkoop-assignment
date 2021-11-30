@@ -13,3 +13,6 @@ There are 5 such rounds, the player with the most game wins, wins the match/tour
 On the screen, there should be a button to start the game.
 Once the game finishes, it should update the current score.
 When a player wins 3 games, show the winner of the match
+
+
+Vanilla JS version: https://jsfiddle.net/Ashwinaashu/euxftws2/73/
