@@ -1,7 +1,7 @@
 # inkoop-assignment
 Created with CodeSandbox
 <br/>
-##Assignment
+## Assignment
 
 Create a 2 player shooting game.
 Each player has a health of 100.
